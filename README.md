@@ -6,4 +6,4 @@
 - Nickname : Kwang :deer:
 - Birthday : 13 September 2001
 
-![This is me](https://user-images.githubusercontent.com/69451625/185741394-de70192a-74ab-4c0b-bf5c-45ed239c2eff.jpg)
+![Kwang](https://user-images.githubusercontent.com/69451625/185805400-b7683e13-56f1-4aaf-aacb-712b09d408db.jpg)
